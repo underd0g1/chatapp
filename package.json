@@ -1,0 +1,26 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "node chat app using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underd0g1/chatapp.git"
+  },
+  "keywords": [
+    "node.js",
+    "chat"
+  ],
+  "author": "underd0g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/underd0g1/chatapp/issues"
+  },
+  "homepage": "https://github.com/underd0g1/chatapp#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
